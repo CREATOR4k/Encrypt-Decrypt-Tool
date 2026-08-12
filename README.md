@@ -3,9 +3,7 @@
 
 Простая и эффективная консольная утилита на Python для шифрования и дешифрования отдельных файлов или целых директорий (включая все вложенные папки) с использованием алгоритма **AES-256**.
 
-![Python Version](https://shields.io)
-![License](https://shields.io)
-![Library](https://shields.io)
+🔹 [Python 3.6+] 🔹 [License: MIT] 🔹 [Dependency: pyAesCrypt]
 
 ---
 
