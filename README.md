@@ -1,4 +1,4 @@
-<h2><p align="center"> Encrypt-Decrypt-Tool </p></h2>
+# <p align="center"> Encrypt-Decrypt-Tool </p>
 ---
 # 🔐 AES File Crypter
 
