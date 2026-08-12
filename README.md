@@ -1,4 +1,4 @@
-<p align="center"> Encrypt-Decrypt-Tool </p>
+<h2><p align="center"> Encrypt-Decrypt-Tool </p></h2>
 # 🔐 AES File Crypter
 
 Простая и эффективная консольная утилита на Python для шифрования и дешифрования отдельных файлов или целых директорий (включая все вложенные папки) с использованием алгоритма **AES-256**.
